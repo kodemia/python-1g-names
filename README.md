@@ -7,7 +7,7 @@
 7. xrlie - charlie
 8. jclopezp - Charly
 9. manuelcastellanos - Manu
-8. Gilbertogj - Gil
 10. Susy2205 - Azu
 11. Sawpol-Andre
-
+12. Rubén Flores - bille
+13. Gilbertogj - Gil
