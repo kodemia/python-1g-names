@@ -5,6 +5,10 @@
 5. msaldeveloper - mario saldaña
 6. Elvira-Camarillo - Elvira
 7. xrlie - charlie
+<<<<<<< HEAD
 7. Rubén Flores  - bille
 
 
+=======
+8. jclopezp - Charly
+>>>>>>> master
