@@ -1,3 +1,7 @@
 1. devcharles - charles
 2. alepaez-dev - ale Paez
-4. isillaure - Nayeli
+3. ZayraJero -zayra
+4. alexconh - alex
+5. msaldeveloper - mario saldaña
+6. Elvira-Camarillo - Elvira
+7. isillaure - Nayeli
