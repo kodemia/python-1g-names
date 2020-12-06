@@ -3,3 +3,5 @@
 3. ZayraJero -zayra
 4. alexconh - alex
 5. msaldeveloper - mario saldaña
+6. Elvira-Camarillo - Elvira
+7. xrlie - charlie
