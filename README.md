@@ -5,4 +5,5 @@
 5. msaldeveloper - mario saldaña
 6. Elvira-Camarillo - Elvira
 7. xrlie - charlie
-8. Susy2205 - Azu
+8. jclopezp - Charly
+9. Susy2205 - Azu
