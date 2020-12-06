@@ -2,9 +2,7 @@
 2. alepaez-dev - ale Paez
 3. ZayraJero -zayra
 4. alexconh - alex
-<<<<<<< HEAD
-
-6.Sawpol-Andre
-=======
 5. msaldeveloper - mario saldaña
->>>>>>> master
+6. Elvira-Camarillo - Elvira
+7. xrlie - charlie
+8. Sawpol - Andre
