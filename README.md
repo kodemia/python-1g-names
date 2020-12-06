@@ -6,4 +6,5 @@
 6. Elvira-Camarillo - Elvira
 7. xrlie - charlie
 8. jclopezp - Charly
-9. Susy2205 - Azu
+9. manuelcastellanos - Manu
+10. Susy2205 - Azu
