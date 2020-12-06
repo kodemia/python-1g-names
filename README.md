@@ -2,4 +2,5 @@
 2. alepaez-dev - ale Paez
 3. ZayraJero -zayra
 4. alexconh - alex
-5. Susy2205 - Azu
+5. msaldeveloper - mario saldaña
+6. Susy2205 - Azu
